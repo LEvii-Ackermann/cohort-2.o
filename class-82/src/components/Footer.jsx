@@ -1,0 +1,9 @@
+import React from 'react'
+
+const Footer = () => {
+  return (
+    <div className='bg-amber-700 p-3 w-full'>Footer</div>
+  )
+}
+
+export default Footer
